@@ -2,4 +2,5 @@
 ICP#1 by Renny Soto 
 
 
-This repo is to demonstrate GitHub knowledge. 
+This repository was created to demonstrate GitHub knowledge.
+Also in this repo, we created a README as well as a WIKI
